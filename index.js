@@ -13,9 +13,9 @@ const menu = require("./lib/menu.js")
 
 //Setting
 
-const apivhtear = 'Apikey vhtear';
-const apibarbar = 'Apikey mhankbarbar';
-const BotName = 'Sagiri Chan'; 
+const apivhtear = 'Zllo81-cQHtUN-qEyAJq-FUlM1z-oKSynl';
+const apibarbar = 'Zllo81-cQHtUN-qEyAJq-FUlM1z-oKSynl';
+const BotName = '♥Sagiri Chan♥'; 
 const instagram = 'www.instagram.com/Cogan_112'; 
 const aktif = 'tergantung kuota';
 const vcard = 'BEGIN:VCARD\n' // metadata of the contact card
